@@ -1,0 +1,273 @@
+1,
+My birthday is __________ August.,
+A: from,
+B: in,
+C: at,
+D: on,
+B,
+
+
+2,
+Look ______ that little boy with the big bag.,
+A: from,
+B: on,
+C: in,
+D: at,
+D,
+
+
+3,
+Tom _________ to school yesterday.,
+A: did goes,
+B: goes,
+C: go,
+D: didn't go,
+D,
+	
+
+4,
+______  did he play a game ? On the playground.,
+A: What,
+B: Where,
+C: How much,
+D: How many,
+B,
+	
+
+5,
+They _______ their homework yesterday,
+A: did not make,
+B: did not look,
+C: do not do,
+D: did not do,
+D,
+
+
+6,
+______  holidays are there in September?,
+A: How many,
+B: How much,
+C: Where,
+D: Who,
+A,
+
+
+7,
+Jane ______  to buy the shirt.,
+A: wanting,
+B: want,
+C: to want,
+D: wanted,
+D,
+
+
+8,
+They _______ milk this morning.,
+A: drink,
+B: drinked,
+C: drunk,
+D: drank,
+A,
+
+
+9,
+What ________ Danai play yesterday?,
+A: do,
+B: was,
+C: did,
+D: had,
+B,
+
+
+10,
+They ________ lunch a moment ago.,
+A: eating,
+B: eat,
+C: ate,
+D: have eaten,
+C,
+
+
+11,
+The thief is running ______ the cinema hall.,
+A: into,
+B: at,
+C: on,
+D: with,
+A,
+
+
+12,
+They agreed _______ us some more money.,
+A: lending,
+B: lend,
+C: to lend,
+D: lent,
+C,
+
+
+13,
+He suggested _______ to France this summer time.,
+A: traveling,
+B: travel,
+C: to travel,
+D: traveled,
+A,
+
+
+14,
+Lien often plays __________ piano for the handicapped in her free time.,
+A: 0,
+B: a,
+C: an,
+D: the,
+D,
+
+
+15,
+What would happen if you ____________ to work tomorrow?,
+A: donot go,
+B: didnot go,
+C: wonot go,
+D: wouldnot go,
+A,
+
+
+16,
+He canot join in the volunteer campaign _______.,
+A: because he hurts his legs,
+B: although he is busy,
+C: in spite of working very hard,
+D: because of registering for it,
+A,
+
+
+17,
+Our seats were ________ far from the stage that we couldnot see the actors and actresses clearly.,
+A: so,
+B: very,
+C: too,
+D: enough,
+A,
+
+
+18,
+It was interesting __________ to remote areas to help disadvantaged children.,
+A: go,
+B: to go,
+C: going,
+D: went,
+B,
+
+
+19,
+I was only in Miami for a week. I wish I ______ more time there but I had to go on to New York.,
+A: had had,
+B: would have,
+C: had,
+D: have,
+C,
+
+
+20,
+You can join the non-profit organization when you ________ a bit older.,
+A: get,
+B: will have got,
+C: will get,
+D: are getting,
+A,
+
+
+21,
+She speaks English. She comes __________ England.,
+A: on,
+B: in,
+C: from,
+D: at,
+C,
+
+ 
+22,
+___________ milk did you drink today? Two glasses.,
+A: What,
+B: How much,
+C: How many,
+D: Where,
+B,
+
+ 
+23,
+He works hard _______ he wants money.,
+A: and,
+B: because,
+C: but,
+D: with,
+B,
+
+ 
+24,
+She speaks English. She comes __________ England.,
+A: on,
+B: in,
+C: from,
+D: at,
+C,
+
+
+25,
+They _______ their homework yesterday.,
+A: did not look,
+B: do not do,
+C: did not do,
+D: did not make,
+C,
+
+
+26,
+The thief is running _______ the cinema hall.,
+A: on,
+B: into,
+C: from,
+D: at,
+B,
+
+
+27,
+__________ mangoes do you have? One.,
+A: How many,
+B: What,
+C: How much,
+D: Where,
+A,
+
+
+28,
+_______can we cut a mango with?,
+A: How many,
+B: What,
+C: How much,
+D: Where,
+B,
+
+
+29,
+_____ October students are on holiday.,
+A: on,
+B: in,
+C: from,
+D: at,
+B,
+
+
+30,
+The fishermen live _________ the sea.,
+A: on,
+B: in,
+C: from,
+D: by,
+D,
+ 
+
+ 
+
+
